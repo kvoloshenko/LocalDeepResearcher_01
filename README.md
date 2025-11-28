@@ -222,3 +222,5 @@ langgraph dev
 ![LangGraphStudio_02.png](Images/LangGraphStudio_02.png)
 
 ![LangGraphStudio_03.png](Images/LangGraphStudio_03.png)
+
+Полученный отчет: [report.md](report.md)
