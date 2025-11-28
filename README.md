@@ -215,6 +215,8 @@ langgraph dev
 
 ![LangGraphStudio_01.png](Images/LangGraphStudio_01.png)
 
+![LangGraphStudio_011.png](Images/LangGraphStudio_011.png)
+
 ![LangGraphStudio_02.png](Images/LangGraphStudio_02.png)
 
 ![LangGraphStudio_03.png](Images/LangGraphStudio_03.png)
